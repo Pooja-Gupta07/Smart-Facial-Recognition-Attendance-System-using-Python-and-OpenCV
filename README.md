@@ -1,0 +1,1 @@
+# Smart-Facial-Recognition-Attendance-System-using-Python-and-OpenCV
